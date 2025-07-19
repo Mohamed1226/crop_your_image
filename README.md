@@ -1,6 +1,6 @@
 # crop_your_image
 
-A flutter plugin that provides `Crop` widget for cropping images.
+A flutter plugin that provides `Crop` widget for cropping images. 
 
 ![Image Cropping Preview](https://github.com/chooyan-eng/crop_your_image/raw/main/assets/cropyourimage.gif)
 
